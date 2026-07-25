@@ -1,0 +1,8 @@
+## Interface: 120007
+## Title: Runestone Tracker
+## Notes: Displays the active Eversong Woods runestone, its state, progress, and Latent Arcana count.
+## Author: Alex
+## Version: 1.0.0
+## SavedVariables: RunestoneTrackerDB
+
+RunestoneTracker.lua
